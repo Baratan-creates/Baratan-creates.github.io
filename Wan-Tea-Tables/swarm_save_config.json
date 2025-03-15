@@ -1,0 +1,20 @@
+{
+  "axes": [
+    {
+      "mode": "teacachethreshold",
+      "values": "0.0,0.1,0.15,0.3,0.5"
+    }
+  ],
+  "checkboxes": {
+    "grid-gen-opt-do-overwrite": false,
+    "grid-gen-opt-fast-skip": false,
+    "grid-gen-opt-generate-page": true,
+    "grid-gen-opt-publish-metadata": true,
+    "grid-gen-opt-dry-run": false,
+    "grid-gen-opt-weight-order": true,
+    "grid-gen-opt-continue-on-error": false,
+    "grid-gen-opt-show-outputs": true
+  },
+  "output_folder_name": "wan-tea-[date]-[time]",
+  "output_type": "Web Page"
+}
