@@ -1,0 +1,24 @@
+{
+  "axes": [
+    {
+      "mode": "sampler",
+      "values": "euler,euler_ancestral"
+    },
+    {
+      "mode": "scheduler",
+      "values": "simple,normal,sgm_uniform,ddim_uniform,beta,linear_quadratic"
+    }
+  ],
+  "checkboxes": {
+    "grid-gen-opt-do-overwrite": false,
+    "grid-gen-opt-fast-skip": false,
+    "grid-gen-opt-generate-page": true,
+    "grid-gen-opt-publish-metadata": true,
+    "grid-gen-opt-dry-run": false,
+    "grid-gen-opt-weight-order": true,
+    "grid-gen-opt-continue-on-error": false,
+    "grid-gen-opt-show-outputs": true
+  },
+  "output_folder_name": "wan-fast-[date]-[time]",
+  "output_type": "Web Page"
+}
