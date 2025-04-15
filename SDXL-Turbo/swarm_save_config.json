@@ -1,0 +1,20 @@
+{
+  "axes": [
+    {
+      "mode": "gridgenpresets",
+      "values": "Default, Default (2),LORA/Turbo-4,LORA/Turbo-8,LORA/Lightning-4,LORA/Lightning-8"
+    }
+  ],
+  "checkboxes": {
+    "grid-gen-opt-do-overwrite": false,
+    "grid-gen-opt-fast-skip": false,
+    "grid-gen-opt-generate-page": true,
+    "grid-gen-opt-publish-metadata": true,
+    "grid-gen-opt-dry-run": false,
+    "grid-gen-opt-weight-order": true,
+    "grid-gen-opt-continue-on-error": false,
+    "grid-gen-opt-show-outputs": true
+  },
+  "output_folder_name": "SDXL-TurboLightning-grid-[date]-[time]",
+  "output_type": "Web Page"
+}
